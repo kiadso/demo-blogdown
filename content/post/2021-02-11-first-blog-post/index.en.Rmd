@@ -1,0 +1,23 @@
+---
+title: First blog post
+author: Genelle
+date: '2021-02-11'
+slug: []
+categories:
+  - ServicePoint
+  - ART
+  - R Shiny
+tags:
+  - featured
+description: Article description.
+featured: yes
+toc: no
+featureImage: /images/path/file.jpg
+thumbnail: /images/path/thumbnail.png
+shareImage: /images/path/share.png
+codeMaxLines: 10
+codeLineNumbers: no
+figurePositionShow: yes
+---
+
+**Insert Lead paragraph here.**
